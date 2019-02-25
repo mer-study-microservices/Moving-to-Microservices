@@ -1,0 +1,253 @@
+{
+  "title": "1 - Microservice Overview ",
+  "cells": [
+    {
+      "type": "text",
+      "data": "<h1>1.1 Definining microservices</h1>"
+    },
+    {
+      "type": "text",
+      "data": "<img src=\"quiver-image-url/256EF3399DB8C5EF5CCA01C596A24508.png\" alt=\"Screen Shot 2019-02-25 at 12.37.36.png\" width=\"512\" height=\"430\">"
+    },
+    {
+      "type": "text",
+      "data": "<h2><b>Microservices</b></h2>"
+    },
+    {
+      "type": "text",
+      "data": "<ul><li>Independent deployable sevices&nbsp;</li><li>Single Responsibility Principle&nbsp;</li><li>Communication done through agnostic APIs</li><li>Highly decoupled&nbsp;</li></ul>"
+    },
+    {
+      "type": "text",
+      "data": "<h2><b>A bit of History</b></h2>"
+    },
+    {
+      "type": "text",
+      "data": "<img src=\"quiver-image-url/E8D54C9D819489EE79CD40E133BDE3EA.png\" alt=\"Screen Shot 2019-02-25 at 12.55.19.png\" width=\"339\" height=\"341\">"
+    },
+    {
+      "type": "text",
+      "data": "<h2><b>STRANGLER PATTERN</b></h2>"
+    },
+    {
+      "type": "text",
+      "data": "<img src=\"quiver-image-url/E9E08895C02F65FC70C392D3269FCF63.png\" alt=\"Screen Shot 2019-02-25 at 12.57.06.png\" width=\"873\" height=\"405\">"
+    },
+    {
+      "type": "text",
+      "data": "<h2><b>WHY NOW?</b></h2>"
+    },
+    {
+      "type": "text",
+      "data": "<ul><li>Infrastructure automation&nbsp;</li><li>Virtualization on demand&nbsp;</li><li>Continuous delivery&nbsp;</li><li>Domain Driven Design&nbsp;</li></ul>"
+    },
+    {
+      "type": "text",
+      "data": "<h1>1.2 Pros and cons of implementing a microservices architecture</h1>"
+    },
+    {
+      "type": "text",
+      "data": "<h2>PROS AND CONS</h2>"
+    },
+    {
+      "type": "text",
+      "data": "<h3>PROS</h3>"
+    },
+    {
+      "type": "text",
+      "data": "<ul><li>Technology flexibility&nbsp;</li><li>Scalability&nbsp;</li><li>Lower risk of deployment&nbsp;</li><li>Small, independent teams&nbsp;</li><li>Reusability&nbsp;</li><li>Replaceability&nbsp;</li></ul>"
+    },
+    {
+      "type": "text",
+      "data": "<h3>CONS</h3>"
+    },
+    {
+      "type": "text",
+      "data": "<ul><li>Complex infrastructure&nbsp;</li><li>Complex delpoyment process&nbsp;</li><li>Performance&nbsp;</li><li>Resilience and monitoring&nbsp;</li></ul>"
+    },
+    {
+      "type": "text",
+      "data": "<h1>1.3 Is a microservice architecture right for your organization?</h1>"
+    },
+    {
+      "type": "text",
+      "data": "<h2>DRIVERS</h2>"
+    },
+    {
+      "type": "text",
+      "data": "<ul><li>Frequent and fast deployments&nbsp;</li><li>Innovation&nbsp;</li><li>Attract new talent&nbsp;</li><li>Current architecture can’t support future business requirments&nbsp;</li></ul>"
+    },
+    {
+      "type": "text",
+      "data": "Do we have the right business requirements?&nbsp;"
+    },
+    {
+      "type": "text",
+      "data": "Are your development teams mature?&nbsp;"
+    },
+    {
+      "type": "text",
+      "data": "<ul><li>XP practices (○)</li><li>Continuous integration（○）&nbsp;</li><li>Infrastructre as code （✖️）</li></ul>"
+    },
+    {
+      "type": "text",
+      "data": "How mature is your organization?&nbsp;"
+    },
+    {
+      "type": "text",
+      "data": "<ul><li>Vertical teams&nbsp;&nbsp;(○)</li><li>DevOps culture&nbsp;（○）</li><li>Continuous delivery&nbsp;（✖️）</li></ul>"
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    }
+  ]
+}

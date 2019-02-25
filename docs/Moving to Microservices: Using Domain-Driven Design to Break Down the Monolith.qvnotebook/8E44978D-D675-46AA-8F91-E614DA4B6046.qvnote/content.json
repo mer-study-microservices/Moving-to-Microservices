@@ -1,0 +1,213 @@
+{
+  "title": "2 - Prerequisites for Moving to a Microservices Architecture ",
+  "cells": [
+    {
+      "type": "text",
+      "data": "<h1>2.1 Testing&nbsp;</h1>"
+    },
+    {
+      "type": "text",
+      "data": "<h2>PREREQUISITES</h2>"
+    },
+    {
+      "type": "text",
+      "data": "<ul><li>Testing</li><li>Automation&nbsp;</li><li>Continuous delivery&nbsp;</li><li>Evolutionary architecture&nbsp;</li><li>Organizational change&nbsp;</li></ul>"
+    },
+    {
+      "type": "text",
+      "data": "<img src=\"quiver-image-url/879D45E66CE0B064E9419E4A54337417.png\" alt=\"Screen Shot 2019-02-25 at 14.33.24.png\" width=\"665\" height=\"375\">"
+    },
+    {
+      "type": "text",
+      "data": "<h2>CONSUMER DRIVEN CONTRACTS</h2>"
+    },
+    {
+      "type": "text",
+      "data": "<h1>2.2 Automation and Continuous Delivery&nbsp;</h1>"
+    },
+    {
+      "type": "text",
+      "data": "<h2>INFRASTRUCTURE AS CODE</h2>"
+    },
+    {
+      "type": "text",
+      "data": "<h1>2.3 Evolutionary architecture&nbsp;</h1>"
+    },
+    {
+      "type": "text",
+      "data": "<h1>2.4 Organizational change</h1>"
+    },
+    {
+      "type": "text",
+      "data": "<h2>LAYERED/TIERED ARCHITECTURE</h2>"
+    },
+    {
+      "type": "text",
+      "data": "<img src=\"quiver-image-url/D5FF8CBC7FB23C0AFCF2E67ED83301EF.png\" alt=\"Screen Shot 2019-02-25 at 15.03.20.png\" width=\"644\" height=\"371\">"
+    },
+    {
+      "type": "text",
+      "data": "<h2><b>ROLE OF THE ARCHITECT</b></h2>"
+    },
+    {
+      "type": "text",
+      "data": "As an architect&nbsp;<div>I want to set up some guidelines&nbsp;</div><div>So that teams can work effectively&nbsp;</div>"
+    },
+    {
+      "type": "text",
+      "data": "<h2>ROLE OF THE DEVELOPER</h2>"
+    },
+    {
+      "type": "text",
+      "data": "As a developer&nbsp;<div>I want to know the best practices&nbsp;</div><div>So that I can apply them&nbsp;</div>"
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": "<br>"
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    }
+  ]
+}

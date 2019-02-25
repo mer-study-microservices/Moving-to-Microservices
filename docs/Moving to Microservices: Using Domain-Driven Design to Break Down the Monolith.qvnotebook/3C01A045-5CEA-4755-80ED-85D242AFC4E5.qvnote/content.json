@@ -1,0 +1,225 @@
+{
+  "title": "3 - Splitting the Monolith",
+  "cells": [
+    {
+      "type": "text",
+      "data": "<h1>3.1 Identify contexts</h1>"
+    },
+    {
+      "type": "text",
+      "data": "<h2>DOMAIN-DRIVEN DESIGN</h2>"
+    },
+    {
+      "type": "text",
+      "data": "<ul><li>Connect implementation to an evolving model&nbsp;</li><li>Collaboration between business and tech (ubiquitous language)&nbsp;</li></ul>"
+    },
+    {
+      "type": "text",
+      "data": "<h2>EVENT STORMING</h2>"
+    },
+    {
+      "type": "text",
+      "data": "<ul><li>Domain modeling exercise&nbsp;</li><li>Aimed to achieve a common understanding of the domain in which the software must operate&nbsp;</li><li>Done with groups of business and technology people&nbsp;</li><li>Read more: https://techbeacon.com/introduction-event-storming-easy-way-achieve-domain-driven-design&nbsp;</li></ul>"
+    },
+    {
+      "type": "text",
+      "data": "<img src=\"quiver-image-url/161C34C16BDAB5F7A93EED12889C3C64.png\" alt=\"Screen Shot 2019-02-25 at 18.42.28.png\" width=\"692\" height=\"179\">"
+    },
+    {
+      "type": "text",
+      "data": "<img src=\"quiver-image-url/F8D7111D3D28783E74D6421CF8DDBF47.png\" alt=\"Screen Shot 2019-02-25 at 18.42.48.png\" width=\"759\" height=\"280\">"
+    },
+    {
+      "type": "text",
+      "data": "<h2>MICROAIRWAYS</h2>"
+    },
+    {
+      "type": "text",
+      "data": "MicroAirways has cheap airline tickets, can rentals and the Traveller reward program&nbsp;"
+    },
+    {
+      "type": "text",
+      "data": "<img src=\"quiver-image-url/72ADA9FC1F26DBA2E4581152D2E2065D.png\" alt=\"Screen Shot 2019-02-25 at 18.48.19.png\" width=\"771\" height=\"262\">"
+    },
+    {
+      "type": "text",
+      "data": "<img src=\"quiver-image-url/551D9E0114BFB1CC8B1A1B0F455DFA8B.png\" alt=\"Screen Shot 2019-02-25 at 18.48.39.png\" width=\"817\" height=\"239\">"
+    },
+    {
+      "type": "text",
+      "data": "<img src=\"quiver-image-url/A91C1AB56775889B4BC0A2A882FDE67F.png\" alt=\"Screen Shot 2019-02-25 at 18.48.22.png\" width=\"772\" height=\"267\">"
+    },
+    {
+      "type": "text",
+      "data": "<img src=\"quiver-image-url/EE923AEE46AB987EFA6756ACDCA73D04.png\" alt=\"Screen Shot 2019-02-25 at 18.50.47.png\" width=\"740\" height=\"283\">"
+    },
+    {
+      "type": "text",
+      "data": "<h2>NEW REQUIREMENT</h2>"
+    },
+    {
+      "type": "text",
+      "data": "<ul><li>We want to change the way rating system work&nbsp;</li><li>We want to add new functionality to the rating system&nbsp;</li><li>We have a series of hypotheses we want to try and change rapidly&nbsp;</li></ul>"
+    },
+    {
+      "type": "text",
+      "data": "<img src=\"quiver-image-url/4D779DF818766626A9A7E30EFE1D7DB7.png\" alt=\"Screen Shot 2019-02-25 at 18.54.57.png\" width=\"750\" height=\"499\">"
+    },
+    {
+      "type": "text",
+      "data": "<img src=\"quiver-image-url/AD452DB56BA762C7065FE8B14616B7EF.png\" alt=\"Screen Shot 2019-02-25 at 18.55.54.png\" width=\"384\" height=\"349\">"
+    },
+    {
+      "type": "text",
+      "data": "<h1>3.2 Decouple contexts</h1>"
+    },
+    {
+      "type": "text",
+      "data": "<h2>BEFORE YOU START...</h2>"
+    },
+    {
+      "type": "text",
+      "data": "<ul><li>Continuous Integration pipeline in place</li><li>Confidence in your tests&nbsp;</li><li>Metrics&nbsp;</li></ul>"
+    },
+    {
+      "type": "text",
+      "data": "<div>REFACTORING TECHNIQUES - COMPOSING METHODS&nbsp;</div>"
+    },
+    {
+      "type": "text",
+      "data": "REFACTORING TECHNIQUES - MOVING FEATURES BETWEEN OBJECTS&nbsp;"
+    },
+    {
+      "type": "text",
+      "data": "REFACTORING TECHNIQUES - ORGANIZING DATA&nbsp;"
+    },
+    {
+      "type": "text",
+      "data": "<img src=\"quiver-image-url/C83D50F21C67823D46EA1AE71AF30A0D.png\" alt=\"Screen Shot 2019-02-25 at 19.17.46.png\" width=\"835\" height=\"365\">"
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    }
+  ]
+}
